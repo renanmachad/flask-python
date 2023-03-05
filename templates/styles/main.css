@@ -1,0 +1,15 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.nome{
+    color:cadetblue;
+}
